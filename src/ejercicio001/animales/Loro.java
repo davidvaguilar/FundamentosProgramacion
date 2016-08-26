@@ -9,9 +9,11 @@ package ejercicio001.animales;
  */
 public class Loro extends Animal{
 	
+	public Loro() {
+	}
+	
 	public String hablar(){
-		String frase = "Lorito bonito, Pretty Poly, Viva mi dueño";
-		return frase;
+		return "Lorito Bonito, Pretty Polly, Viva mi Dueño";
 	}
 
 }

@@ -10,16 +10,7 @@ package ejercicio001.animales;
 public class Animal {
 	
 	public void vivir (){
-		boolean corazon;
-		boolean pulmonDerecho;
-		boolean pulmonIzquierdo;
-		boolean cerebro;
-		boolean higado;
-		corazon=true;
-		pulmonDerecho=true;
-		pulmonIzquierdo=true;
-		cerebro=true;
-		higado=true;
+		
 	}
 
 }
