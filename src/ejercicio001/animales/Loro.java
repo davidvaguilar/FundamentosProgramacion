@@ -8,12 +8,12 @@ package ejercicio001.animales;
  *
  */
 public class Loro extends Animal{
+	//Atributos
 	
-	public Loro() {
-	}
 	
+	//Metodos
 	public String hablar(){
-		return "Lorito Bonito, Pretty Polly, Viva mi Dueño";
+		return "Lorito Bonito, Pretty Polly y Viva mi Dueño";
 	}
 
 }

@@ -8,26 +8,9 @@ package ejercicio001.animales;
  *
  */
 public class Pinguino extends Animal{
-	
+	//Atributos
 	private String nombre;
 
-	
-	
-	/**
-	 * @param nombre
-	 */
-	public Pinguino(String nombre) {
-		super();
-		this.nombre = nombre;
-	}
-
-
-
-	@Override
-	public String toString() {
-		return "Pinguino [nombre=" + nombre + "]";
-	}
-
-	
+	//Metodos
 	
 }

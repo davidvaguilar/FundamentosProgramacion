@@ -9,4 +9,5 @@ package ejercicio001.animales;
  */
 public class Casa {
 
+	
 }
