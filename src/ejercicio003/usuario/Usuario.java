@@ -8,21 +8,7 @@ public final class Usuario {
 	private String usuario;
 	private Integer password;
 	
-	public Usuario(Integer codigo, String nombre, String apellido, String direccion, String usuario, Integer password) {
-		this.codigo = codigo;
-		this.nombre = nombre;
-		this.apellido = apellido;
-		this.direccion = direccion;
-		this.usuario = usuario;
-		this.password = password;
-	}
 
-	public Usuario(Integer codigo) {
-		this.codigo = codigo;
-	}
-
-	public Usuario() {
-	}
 	
 	private void setCodigo(Integer codigo) {
 		this.codigo = codigo;
