@@ -21,7 +21,6 @@ public class Main {
 		p1 = new Perro("fiero");
 		p2 =new Perro();
 		
-		
 		p1.setNombre("firulais");
 		p2.setAgresividad("manso");
 		System.out.println(p1.getAgresividad());

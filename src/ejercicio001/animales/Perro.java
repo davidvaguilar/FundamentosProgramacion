@@ -30,10 +30,6 @@ public class Perro extends Animal{
 	public Perro() {
 	}
 
-
-	
-	
-
 	public String getAgresividad() {
 		return agresividad;
 	}

@@ -62,5 +62,14 @@ public class Persona {
 	public void setSexo(String sexo) {
 		this.sexo = sexo;
 	}
+
+	@Override
+	public String toString() {
+		return "Persona [rut=" + rut + ", nombre=" + nombre + ", apellidoPaterno=" + apellidoPaterno
+				+ ", apellidoMaterno=" + apellidoMaterno + ", sexo=" + sexo + "]";
+	}
+
+
+
 	
 }
